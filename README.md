@@ -7,7 +7,6 @@ Made for a technical assessment.
 ## Live Demo
 
 👉 [View it on Vercel](https://resonate-app-psi.vercel.app)
-*(Replace with your actual Vercel or Netlify link)*
 
 
 ## Running Locally
